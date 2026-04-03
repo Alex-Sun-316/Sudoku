@@ -1,2 +1,2 @@
 # Sudoku
-A Sudoku game design
+A Sudoku solver game design
