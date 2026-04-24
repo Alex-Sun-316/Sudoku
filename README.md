@@ -1,7 +1,7 @@
 # Sudoku Solver
 
 A Python-based 9x9 Sudoku solver built using rule-based constraint propagation.
-
+Here is the demo  https://alex-sun-316.github.io/sudoku-demo/
 ## Overview
 This project represents a Sudoku board as a 9x9 grid of candidate sets and solves the puzzle by repeatedly eliminating invalid values based on Sudoku constraints.
 
